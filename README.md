@@ -1,3 +1,4 @@
+CS205 Final Project (Fall Semester 2016)
 Team Name: Team\
 Members: Joseph DiPalma, Annan Miao, and Ben Xu\
 
